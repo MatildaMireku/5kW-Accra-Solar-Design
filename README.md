@@ -35,4 +35,8 @@
 - pvwatts_results.png = PVWatts verification
 
 ### Just Transition Impact
-Reduces bills during dumsor, concrete flat roof design for Ghanaian homes, allows biodiesel generator + battery backup integration.
+Reduces bills during dumsor, concrete flat roof design for Ghanaian homes, allows biodiesel generator + battery backup integration.                     
+                                                                                                                                                                            ## Site Location
+Agazy Homes, Tema Community 25, Accra - 5.67°N, 0.09°W
+Design stage - 5kW system, 7,269 kWh/year, 5.47 sun hours
+For households in Community 25
